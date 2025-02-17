@@ -1,0 +1,46 @@
+# Ignore Library folder (contains cached and generated data)
+Library/
+
+# Ignore Temp folder (temporary files)
+Temp/
+
+# Ignore obj folder (intermediate build files)
+obj/
+
+# Ignore build artifacts (adjust as needed)
+Build/
+*.exe
+*.dll
+*.apk
+*.ipa
+
+# Ignore Visual Studio files (if applicable)
+.idea/
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.sln  # But you might want to keep the .sln if you are collaborating.
+*.csproj
+*.pidb
+*.metaproj
+*.log
+*.tmp
+*.unity3d
+
+# Ignore Unity-specific files
+[Ll]ibrary/
+Assets/.__*
+Assets/*.meta
+Assets/*~
+Assets/*.tmp
+Assets/*.temp
+Assets/obj/
+ProjectSettings/ProjectVersion.txt # If you don't want to track project version changes
+UserSettings/
+
+# Ignore other files or directories as needed
+.DS_Store  # macOS specific
+Thumbs.db  # Windows specific
+*.DS_Store
+*.swp  # Swap files (from editors like Vim)
