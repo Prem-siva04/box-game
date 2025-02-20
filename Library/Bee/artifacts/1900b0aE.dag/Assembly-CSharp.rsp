@@ -446,11 +446,13 @@
 "Assets/code/L2randomly.cs"
 "Assets/code/L2randomly1.cs"
 "Assets/code/momement.cs"
+"Assets/code/MovingEnemy.cs"
 "Assets/code/MScere.cs"
 "Assets/code/ramdomly.cs"
 "Assets/code/score.cs"
 "Assets/code/Timer.cs"
 "Assets/code/welcome.cs"
+"Assets/Lock.cs"
 -langversion:9.0
 /deterministic
 /optimize+
