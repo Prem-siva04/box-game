@@ -453,6 +453,7 @@
 "Assets/code/Timer.cs"
 "Assets/code/welcome.cs"
 "Assets/Lock.cs"
+"Assets/unLock.cs"
 -langversion:9.0
 /deterministic
 /optimize+
