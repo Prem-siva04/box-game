@@ -26,4 +26,8 @@ public class welcome : MonoBehaviour
     public void LevelTwo() {
         SceneManager.LoadScene(9);
     }
+    public void LevelThree() {
+        SceneManager.LoadScene(13);
+    }
+
 }
